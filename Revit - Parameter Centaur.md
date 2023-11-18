@@ -6,6 +6,3 @@ I am unaware of a vanilla way to limit these without running through the model a
 Is it possible to create a plugin that validates the data entry as an object is edited? I was thinking maybe we can replace the vanilla parameter editor with a plugin parameter editor. This would allows us to create extra features like dropdowns and allow data entry validation. BUT, the parameter editor isn't the only place parameters can be set.
 
 Instead, is it possible to add a function to an "On Element Edited Event" (I'm unsure if this exists, or what it's called ). If so, we can run checks on the data, and potentially add automated data changes on the fly. The validation format could function like [[CSS]]
-
-Making more changes
-How many changes get saved on the fly?
