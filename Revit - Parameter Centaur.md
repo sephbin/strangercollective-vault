@@ -7,4 +7,5 @@ Is it possible to create a plugin that validates the data entry as an object is 
 
 Instead, is it possible to add a function to an "On Element Edited Event" (I'm unsure if this exists, or what it's called ). If so, we can run checks on the data, and potentially add automated data changes on the fly. The validation format could function like [[CSS]]
 
-Mak
+Making more changes
+How many changes get saved on the fly?
